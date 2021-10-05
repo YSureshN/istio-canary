@@ -1,0 +1,44 @@
+https://www.youtube.com/watch?v=rv6MOvpXU90
+We will learn about how we can leverage Terraform to provision EKS Kubernetes cluster on AWS. The 
+source code of Terraform script is available at Github repo given below.
+
+Github Repo: https://github.com/techtter/aws
+
+The following topics covered with Hands-on demo. 
+► Creating EC2 Instances with Terraform
+► Creating Kubernetes EKS Cluster with Terraform
+► Deploying Horizontal Pod AutoScaler
+► Deploying Cluster AutoScaler
+► Deploying Metrics-Server
+► Deploying php-apache service
+
+All Kubectl Commands Cheatsheet:
+► https://github.com/reddypidugu/Cheats...
+
+
+https://drive.google.com/drive/folders/13DQnq8grm_UXVbwhVevxZRJcoaH8CTjP  (Terraform with EKS)
+https://www.youtube.com/watch?v=IzZ9UXE7IAM
+
+https://github.com/WesleyCharlesBlake/terraform-aws-eks/blob/master/data.tf
+
+https://github.com/WesleyCharlesBlake/terraform-aws-eks (EKS-with-Bastin)
+
+----------------------------------
+AWS EKS: Cluster Set-up, Application containerization & Deployment, Autoscaling, Cluster Monitoring
+
+https://www.youtube.com/watch?v=LlisKI-gN5w
+
+This Video Tutorial Covers:
+Introduction to AWS EKS (Small Overview)
+Set up EKS Clusters Using eksctl 
+Deploy MEAN Stack Web App using kubectl
+Autoscaling: Horizontal Pod autoscaling and Cluster Nodes Autoscaling
+Kubernetes Cluster Monitoring using Prometheus and Grafana 
+
+►Reference Document Link  
+https://drive.google.com/file/d/1slZg... 
+https://drive.google.com/file/d/1slZgPh8yOvhGC_r4wQpvYC-OSDw1I__0/view
+
+
+►Git Repo:
+https://github.com/cncfkol/mean_eks_demo
