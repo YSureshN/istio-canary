@@ -1,0 +1,29 @@
+Suresh:- 
+elastic cache 
+Dynamo Db 
+influxdb 
+Postgress 
+
+https://www.youtube.com/watch?v=8FmoTq8dU1g
+
+ https://awslabs.github.io/amazon-kinesis-data-generator/web/producer.html
+
+https://github.com/johnny-chivers/Kinesis-Event-Driven-Solution
+
+https://www.youtube.com/watch?v=nyWiTuh1G_k
+https://www.youtube.com/watch?v=urZgVCJ5_G0
+https://www.youtube.com/watch?v=YdopN_2yeWk
+------------------------
+real time data streaming using kinesis agent node . 
+
+Kinesis Data stream configuration .
+Agent installation.
+Kinesis firehose 
+S3 bucket
+Role Creation
+EC2 instance
+Folder access steps .
+File copy from local to EC2 instance.
+
+https://www.youtube.com/watch?v=ZErwfH-OLk4
+https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-firehose-custom-prefixes-for-amazon-s3-objects/
