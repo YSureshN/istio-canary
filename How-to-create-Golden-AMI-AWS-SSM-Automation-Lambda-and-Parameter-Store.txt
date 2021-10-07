@@ -1,0 +1,4 @@
+https://github.com/miztiik/AWS-Demos/tree/master/How-To/setup-ami-lifecycle-management-using-ssm
+
+https://www.youtube.com/watch?v=7_c47qfD2_0
+https://www.youtube.com/watch?v=WenPNoKrIgM
