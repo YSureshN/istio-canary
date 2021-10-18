@@ -1,3 +1,5 @@
+https://www.sumologic.com/blog/kubernetes-deploy-postgres/
+
 ### kubectl apply commands in order
     
     kubectl apply -f mongo-secret.yaml
