@@ -19,7 +19,7 @@ All Kubectl Commands Cheatsheet:
 https://drive.google.com/drive/folders/13DQnq8grm_UXVbwhVevxZRJcoaH8CTjP  (Terraform with EKS)
 https://www.youtube.com/watch?v=IzZ9UXE7IAM
 
-https://github.com/WesleyCharlesBlake/terraform-aws-eks/blob/master/data.tf
+https://github.com/WesleyCharlesBlake/terraform-aws-eks/blob/master/data.tf  (EKS-With-Bastion-Host)
 
 https://github.com/WesleyCharlesBlake/terraform-aws-eks (EKS-with-Bastin)
 
